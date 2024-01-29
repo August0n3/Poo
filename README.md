@@ -1,1 +1,1 @@
-atividades da disciplina de programaçâao orientada a objetos 
+atividades da disciplina de programação orientada a objetos 
