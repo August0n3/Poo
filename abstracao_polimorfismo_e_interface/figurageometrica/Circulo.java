@@ -1,4 +1,4 @@
-package abstracaopolieinterface.figurageometrica;
+package abstracao_polimorfismo_e_interface.figurageometrica;
 
 public class Circulo extends FiguraGeometrica {
     private float raio;

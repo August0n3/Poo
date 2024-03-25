@@ -1,4 +1,4 @@
-package abstracaopolieinterface.biblioteca;
+package abstracao_polimorfismo_e_interface.biblioteca;
 
 public class DemoLivroBiblioteca {
     public static void main(String[] args) {
@@ -9,7 +9,6 @@ public class DemoLivroBiblioteca {
         System.out.println(livro.estaEmprestado());
         livro.devolve();
         System.out.println(livro.localizacao());
-
         System.out.println(livro);
     }
 }

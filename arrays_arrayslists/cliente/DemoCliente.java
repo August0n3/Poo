@@ -1,4 +1,4 @@
-package arrays.cliente;
+package arrays_arrayslists.cliente;
 
 import java.util.ArrayList;
 import java.util.Scanner;   

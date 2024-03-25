@@ -1,4 +1,4 @@
-package arrays.agenda;
+package arrays_arrayslists.agenda;
 
 public class DemoAgenda {
     public static void main(String[] args) {

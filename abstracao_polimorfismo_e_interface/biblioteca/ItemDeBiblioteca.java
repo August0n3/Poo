@@ -1,4 +1,4 @@
-package abstracaopolieinterface.biblioteca;
+package abstracao_polimorfismo_e_interface.biblioteca;
 
 public interface ItemDeBiblioteca {
     public static int maximoDeDiasParaEmprestimo = 14;

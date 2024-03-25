@@ -1,4 +1,4 @@
-package arrays.agenda;
+package arrays_arrayslists.agenda;
 
 public class EntradaEmAgenda {
     public String hora;

@@ -1,4 +1,4 @@
-package abstracaopolieinterface.biblioteca;
+package abstracao_polimorfismo_e_interface.biblioteca;
 
 public class Livro implements ItemDeBiblioteca {
     private String titulo;

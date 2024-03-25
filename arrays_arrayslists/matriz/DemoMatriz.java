@@ -1,4 +1,4 @@
-package arrays.matriz;
+package arrays_arrayslists.matriz;
 
 public class DemoMatriz {
     public static void main(String[] args) {

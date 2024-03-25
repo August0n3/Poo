@@ -1,4 +1,4 @@
-package arrays.matriz;
+package arrays_arrayslists.matriz;
 
 public class Matriz {
     private float[][] matriz = new float[2][2];

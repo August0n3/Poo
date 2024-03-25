@@ -1,4 +1,4 @@
-package abstracaopolieinterface.figurageometrica;
+package abstracao_polimorfismo_e_interface.figurageometrica;
 
 public class Quadrado extends FiguraGeometrica {
     private float lado;

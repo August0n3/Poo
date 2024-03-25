@@ -1,4 +1,4 @@
-package arrays.cliente;
+package arrays_arrayslists.cliente;
 
 public class Cliente {
     private int id;
